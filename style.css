@@ -456,18 +456,18 @@ label{
 
 
 button{
-	height: 35px; 
-	padding-left: 5px;
-	padding-right: 5px; 	
-	margin-bottom: 20px; 
-	margin-top: 10px; 	
-	text-transform: uppercase;
-	background-color: #711716; 
-	border-color: #711716	; 
-	border-style: solid; 
-	border-radius: 10px;	
-	width: 300px;   
-  cursor: pointer;
+	height: 35px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    text-transform: uppercase;
+    background-color: #711716;
+    border-color: #711716;
+    border-style: solid;
+    border-radius: 10px;
+    width: 360px;
+    cursor: pointer;
 }
 
 
